@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('resources/seamless-background-textures-22.jpg');
+    background-repeat: repeat;
+    font-family: "Heebo", serif;
+}
+
+.jumbotron {
+    background-image: url("resources/DJI_0269.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+}
